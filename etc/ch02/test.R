@@ -1,0 +1,5 @@
+library(dplyr)
+str(iris)
+head(iris, 10)
+plot(iris)
+plot(iris$Petal.Width, iris$Petal.Length, col=iris$Species)
