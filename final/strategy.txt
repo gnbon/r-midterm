@@ -1,0 +1,9 @@
+노트북에 라이브러리가 다 깔려 있기 때문에.. 노트북으로 진행!
+무조건 ppt나 코드 찾아서 동일하게 작성할 것..! 코드의 의도도 평가항목
+
+준비사항
+1. 컴퓨터 켜놓기
+2. github 다운로드 받기
+3. vscode 설치 - hw02.R, ch12.R, final.R 띄워놓기
+
+https://rpubs.com/AlistairGJ/Diamonds
